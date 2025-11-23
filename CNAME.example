@@ -1,0 +1,10 @@
+# CNAME File Example
+#
+# If you want to use a custom domain for your portfolio:
+# 1. Rename this file from "CNAME.example" to "CNAME"
+# 2. Replace "yourdomain.com" below with your actual domain
+# 3. Configure your DNS settings with your domain provider
+#
+# Example: badismahjoubi.dev
+
+yourdomain.com
