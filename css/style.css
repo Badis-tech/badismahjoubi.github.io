@@ -247,6 +247,24 @@ ul {
     transform: translateY(-3px);
 }
 
+.btn-outline {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border: 2px solid var(--primary-color);
+    background: transparent;
+    color: var(--text-primary);
+    border-radius: 8px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+.btn-outline:hover {
+    background: var(--primary-color);
+    color: white;
+    transform: translateY(-2px);
+}
+
 .social-links {
     display: flex;
     gap: 1.5rem;
